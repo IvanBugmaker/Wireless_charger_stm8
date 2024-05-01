@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=MCU1 NewDesignator=MSU1
+Added Component: Designator=TP17(Testpoint1)
+Added Pin To Net: NetName=NetC8_2 Pin=TP17-1
+Added Member To Class: ClassName=MSU_and_periphery Member=Component * Wire to board connector
+Added Member To Class: ClassName=MSU_and_periphery Member=Component J1 USB4800-03-A_REVA
+Added Member To Class: ClassName=MSU_and_periphery Member=Component TP17 TP
