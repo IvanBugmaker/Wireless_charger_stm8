@@ -397,6 +397,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JNJESDQZ
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for Wireless_charger_stm8\Design Rule Check - PCB1.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
