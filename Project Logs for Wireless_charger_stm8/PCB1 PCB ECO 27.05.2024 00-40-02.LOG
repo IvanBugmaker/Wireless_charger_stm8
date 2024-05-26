@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=5VA Pin=TP13-1
+Removed Pin From Net: NetName=+5 Pin=TP14-1
+Removed Member From Class: ClassName=MSU_and_periphery Member=TP13
+Removed Member From Class: ClassName=MSU_and_periphery Member=TP14
+Added Member To Class: ClassName=MSU_and_periphery Member=Component RGB1 Common anode
