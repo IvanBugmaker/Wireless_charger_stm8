@@ -398,7 +398,7 @@ GenerateClassCluster=0
 DocumentUniqueId=JNJESDQZ
 
 [Document22]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Capacitors - Aluminum - Electrolytic TH\Capacitors - Aluminum - Electrolytic TH.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Capacitors - Aluminum - Electrolytic TH\Capacitors - Aluminum - Electrolytic TH.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -415,7 +415,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document23]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\sysdiagrams\sysdiagrams.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\sysdiagrams\sysdiagrams.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -432,7 +432,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document24]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Voltage Regulators - Linear\Voltage Regulators - Linear.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Voltage Regulators - Linear\Voltage Regulators - Linear.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -449,7 +449,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document25]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Voltage Regulators - DC DC Switching Regulators\Voltage Regulators - DC DC Switching Regulators.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Voltage Regulators - DC DC Switching Regulators\Voltage Regulators - DC DC Switching Regulators.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -466,7 +466,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document26]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Voltage Regulators - DC DC Switching Controllers\Voltage Regulators - DC DC Switching Controllers.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Voltage Regulators - DC DC Switching Controllers\Voltage Regulators - DC DC Switching Controllers.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -483,7 +483,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document27]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Voltage Reference\Voltage Reference.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Voltage Reference\Voltage Reference.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -500,7 +500,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document28]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Transistors - Bipolar BJT - Single Pre-Biased\Transistors - Bipolar BJT - Single Pre-Biased.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Transistors - Bipolar BJT - Single Pre-Biased\Transistors - Bipolar BJT - Single Pre-Biased.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -517,7 +517,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document29]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Transistors - Bipolar BJT - Single\Transistors - Bipolar BJT - Single.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Transistors - Bipolar BJT - Single\Transistors - Bipolar BJT - Single.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -534,7 +534,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document30]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Transistors - Bipolar BJT - RF\Transistors - Bipolar BJT - RF.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Transistors - Bipolar BJT - RF\Transistors - Bipolar BJT - RF.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -551,7 +551,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document31]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Switches - Tactile\Switches - Tactile.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Switches - Tactile\Switches - Tactile.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -568,7 +568,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document32]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Switches - Snap Action Limit\Switches - Snap Action Limit.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Switches - Snap Action Limit\Switches - Snap Action Limit.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -585,7 +585,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document33]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Switches - Slide\Switches - Slide.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Switches - Slide\Switches - Slide.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -602,7 +602,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document34]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Switches - Pushbutton\Switches - Pushbutton.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Switches - Pushbutton\Switches - Pushbutton.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -619,7 +619,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document35]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Switches - Magnetic Reed\Switches - Magnetic Reed.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Switches - Magnetic Reed\Switches - Magnetic Reed.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -636,7 +636,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document36]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Switches - DIP\Switches - DIP.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Switches - DIP\Switches - DIP.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -653,7 +653,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document37]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Supervisors\Supervisors.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Supervisors\Supervisors.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -670,7 +670,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document38]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Signal - Buffers Repeaters Splitters\Signal - Buffers Repeaters Splitters.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Signal - Buffers Repeaters Splitters\Signal - Buffers Repeaters Splitters.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -687,7 +687,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document39]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Sensors - Temperature - RTD\Sensors - Temperature - RTD.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Sensors - Temperature - RTD\Sensors - Temperature - RTD.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -704,7 +704,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document40]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Sensors - Temperature - Analog and Digital\Sensors - Temperature - Analog and Digital.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Sensors - Temperature - Analog and Digital\Sensors - Temperature - Analog and Digital.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -721,7 +721,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document41]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Sensors - Pressure\Sensors - Pressure.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Sensors - Pressure\Sensors - Pressure.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -738,7 +738,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document42]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Sensors - PTC Thermistors\Sensors - PTC Thermistors.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Sensors - PTC Thermistors\Sensors - PTC Thermistors.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -755,7 +755,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document43]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Sensors - Optical - Remote Photo Receiver\Sensors - Optical - Remote Photo Receiver.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Sensors - Optical - Remote Photo Receiver\Sensors - Optical - Remote Photo Receiver.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -772,7 +772,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document44]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Sensors - Optical - Photodiodes\Sensors - Optical - Photodiodes.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Sensors - Optical - Photodiodes\Sensors - Optical - Photodiodes.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -789,7 +789,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document45]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Sensors - NTC Thermistors\Sensors - NTC Thermistors.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Sensors - NTC Thermistors\Sensors - NTC Thermistors.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -806,7 +806,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document46]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Sensors - Motion - Accelerometers\Sensors - Motion - Accelerometers.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Sensors - Motion - Accelerometers\Sensors - Motion - Accelerometers.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -823,7 +823,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document47]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Sensors - Humidity Moisture\Sensors - Humidity Moisture.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Sensors - Humidity Moisture\Sensors - Humidity Moisture.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -840,7 +840,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document48]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Sensors - Current Sense Transformers\Sensors - Current Sense Transformers.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Sensors - Current Sense Transformers\Sensors - Current Sense Transformers.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -857,7 +857,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document49]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Resistors - Trimmer Potentiometers\Resistors - Trimmer Potentiometers.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Resistors - Trimmer Potentiometers\Resistors - Trimmer Potentiometers.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -874,7 +874,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document50]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Resistors - Surface Mount - 2512\Resistors - Surface Mount - 2512.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Resistors - Surface Mount - 2512\Resistors - Surface Mount - 2512.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -891,7 +891,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document51]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Resistors - Surface Mount - 1210\Resistors - Surface Mount - 1210.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Resistors - Surface Mount - 1210\Resistors - Surface Mount - 1210.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -908,7 +908,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document52]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Resistors - Surface Mount - 1206\Resistors - Surface Mount - 1206.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Resistors - Surface Mount - 1206\Resistors - Surface Mount - 1206.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -925,7 +925,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document53]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Resistors - Surface Mount - 0805\Resistors - Surface Mount - 0805.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Resistors - Surface Mount - 0805\Resistors - Surface Mount - 0805.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -942,7 +942,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document54]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Resistors - Surface Mount - 0603\Resistors - Surface Mount - 0603.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Resistors - Surface Mount - 0603\Resistors - Surface Mount - 0603.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -959,7 +959,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document55]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Resistors - Surface Mount - 0402\Resistors - Surface Mount - 0402.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Resistors - Surface Mount - 0402\Resistors - Surface Mount - 0402.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -976,7 +976,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document56]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Resistors - Surface Mount - 0201\Resistors - Surface Mount - 0201.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Resistors - Surface Mount - 0201\Resistors - Surface Mount - 0201.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -993,7 +993,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document57]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Resistors - Current Sense SMT\Resistors - Current Sense SMT.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Resistors - Current Sense SMT\Resistors - Current Sense SMT.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1010,7 +1010,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document58]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Resistors -  Arrays and Networks\Resistors -  Arrays and Networks.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Resistors -  Arrays and Networks\Resistors -  Arrays and Networks.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1027,7 +1027,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document59]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\RF - Transceiver Modules\RF - Transceiver Modules.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\RF - Transceiver Modules\RF - Transceiver Modules.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1044,7 +1044,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document60]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\RF - Transceiver ICs\RF - Transceiver ICs.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\RF - Transceiver ICs\RF - Transceiver ICs.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1061,7 +1061,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document61]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\RF - Receivers\RF - Receivers.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\RF - Receivers\RF - Receivers.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1078,7 +1078,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document62]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\RF - RFID and RF Access ICs\RF - RFID and RF Access ICs.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\RF - RFID and RF Access ICs\RF - RFID and RF Access ICs.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1095,7 +1095,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document63]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\RF - Front End LNA PA\RF - Front End LNA PA.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\RF - Front End LNA PA\RF - Front End LNA PA.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1112,7 +1112,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document64]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\RF - Filters\RF - Filters.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\RF - Filters\RF - Filters.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1129,7 +1129,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document65]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\RF - Antennas\RF - Antennas.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\RF - Antennas\RF - Antennas.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1146,7 +1146,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document66]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Power Supplies - Board Mount - DC DC Converters\Power Supplies - Board Mount - DC DC Converters.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Power Supplies - Board Mount - DC DC Converters\Power Supplies - Board Mount - DC DC Converters.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1163,7 +1163,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document67]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Power Management - Specialized\Power Management - Specialized.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Power Management - Specialized\Power Management - Specialized.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1180,7 +1180,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document68]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Power Distribution - Switches and Load Drivers\Power Distribution - Switches and Load Drivers.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Power Distribution - Switches and Load Drivers\Power Distribution - Switches and Load Drivers.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1197,7 +1197,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document69]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Oscillators - Programmable Oscillators\Oscillators - Programmable Oscillators.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Oscillators - Programmable Oscillators\Oscillators - Programmable Oscillators.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1214,7 +1214,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document70]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Oscillators - Oscillators\Oscillators - Oscillators.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Oscillators - Oscillators\Oscillators - Oscillators.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1231,7 +1231,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document71]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Oscillators - Crystals\Oscillators - Crystals.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Oscillators - Crystals\Oscillators - Crystals.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1248,7 +1248,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document72]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Optoisolators - Transistor Photovoltaic\Optoisolators - Transistor Photovoltaic.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Optoisolators - Transistor Photovoltaic\Optoisolators - Transistor Photovoltaic.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1265,7 +1265,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document73]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Optoelectronics - Infrared UV Visible Emitters\Optoelectronics - Infrared UV Visible Emitters.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Optoelectronics - Infrared UV Visible Emitters\Optoelectronics - Infrared UV Visible Emitters.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1282,7 +1282,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document74]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Optics - Light Pipes\Optics - Light Pipes.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Optics - Light Pipes\Optics - Light Pipes.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1299,7 +1299,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document75]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Motor Drivers Controllers\Motor Drivers Controllers.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Motor Drivers Controllers\Motor Drivers Controllers.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1316,7 +1316,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document76]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Memory\Memory.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Memory\Memory.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1333,7 +1333,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document77]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\MOSFET - Single - P-Ch\MOSFET - Single - P-Ch.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\MOSFET - Single - P-Ch\MOSFET - Single - P-Ch.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1350,7 +1350,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document78]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\MOSFET - Single - N-Ch\MOSFET - Single - N-Ch.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\MOSFET - Single - N-Ch\MOSFET - Single - N-Ch.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1367,7 +1367,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document79]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\MOSFET - Gate Drivers\MOSFET - Gate Drivers.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\MOSFET - Gate Drivers\MOSFET - Gate Drivers.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1384,7 +1384,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document80]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\MOSFET - Arrays - P-Ch\MOSFET - Arrays - P-Ch.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\MOSFET - Arrays - P-Ch\MOSFET - Arrays - P-Ch.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1401,7 +1401,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document81]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\MOSFET - Arrays - N-Ch\MOSFET - Arrays - N-Ch.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\MOSFET - Arrays - N-Ch\MOSFET - Arrays - N-Ch.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1418,7 +1418,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document82]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Logic - Translators Level Shifters\Logic - Translators Level Shifters.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Logic - Translators Level Shifters\Logic - Translators Level Shifters.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1435,7 +1435,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document83]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Logic - Linear Comparators\Logic - Linear Comparators.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Logic - Linear Comparators\Logic - Linear Comparators.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1452,7 +1452,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document84]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Logic - Gates and Inverters\Logic - Gates and Inverters.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Logic - Gates and Inverters\Logic - Gates and Inverters.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1469,7 +1469,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document85]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Logic - Buffers Drivers Receivers Transceivers\Logic - Buffers Drivers Receivers Transceivers.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Logic - Buffers Drivers Receivers Transceivers\Logic - Buffers Drivers Receivers Transceivers.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1486,7 +1486,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document86]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\LED - Lighting - White\LED - Lighting - White.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\LED - Lighting - White\LED - Lighting - White.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1503,7 +1503,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document87]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\LED - Lighting - Color\LED - Lighting - Color.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\LED - Lighting - Color\LED - Lighting - Color.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1520,7 +1520,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document88]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\LED - Indication\LED - Indication.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\LED - Indication\LED - Indication.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1537,7 +1537,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document89]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\LED - Drivers\LED - Drivers.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\LED - Drivers\LED - Drivers.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1554,7 +1554,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document90]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Isolators - Digital\Isolators - Digital.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Isolators - Digital\Isolators - Digital.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1571,7 +1571,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document91]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Interface - Signal Buffers Repeaters Splitters\Interface - Signal Buffers Repeaters Splitters.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Interface - Signal Buffers Repeaters Splitters\Interface - Signal Buffers Repeaters Splitters.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1588,7 +1588,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document92]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Interface - Sensor and Detector\Interface - Sensor and Detector.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Interface - Sensor and Detector\Interface - Sensor and Detector.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1605,7 +1605,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document93]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Interface - Drivers Receivers Transceivers\Interface - Drivers Receivers Transceivers.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Interface - Drivers Receivers Transceivers\Interface - Drivers Receivers Transceivers.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1622,7 +1622,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document94]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Interface - Controllers\Interface - Controllers.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Interface - Controllers\Interface - Controllers.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1639,7 +1639,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document95]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Interface - CODECs\Interface - CODECs.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Interface - CODECs\Interface - CODECs.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1656,7 +1656,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document96]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Interface - Analog Switches Multiplexers Demultiplexers\Interface - Analog Switches Multiplexers Demultiplexers.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Interface - Analog Switches Multiplexers Demultiplexers\Interface - Analog Switches Multiplexers Demultiplexers.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1673,7 +1673,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document97]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Inductors - RF\Inductors - RF.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Inductors - RF\Inductors - RF.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1690,7 +1690,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document98]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Inductors - Power\Inductors - Power.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Inductors - Power\Inductors - Power.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1707,7 +1707,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document99]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Hardware - Mounting Brackets\Hardware - Mounting Brackets.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Hardware - Mounting Brackets\Hardware - Mounting Brackets.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1724,7 +1724,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document100]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Fuses - Fuseholders\Fuses - Fuseholders.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Fuses - Fuseholders\Fuses - Fuseholders.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1741,7 +1741,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document101]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Fuses - Fuse\Fuses - Fuse.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Fuses - Fuse\Fuses - Fuse.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1758,7 +1758,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document102]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Filters - Ferrite Beads and Chips\Filters - Ferrite Beads and Chips.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Filters - Ferrite Beads and Chips\Filters - Ferrite Beads and Chips.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1775,7 +1775,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document103]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Encoders\Encoders.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Encoders\Encoders.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1792,7 +1792,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document104]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Embedded - Microcontrollers\Embedded - Microcontrollers.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Embedded - Microcontrollers\Embedded - Microcontrollers.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1809,7 +1809,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document105]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Display Modules - LCD OLED Character and Numeric\Display Modules - LCD OLED Character and Numeric.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Display Modules - LCD OLED Character and Numeric\Display Modules - LCD OLED Character and Numeric.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1826,7 +1826,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document106]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Diodes - Zener - Single\Diodes - Zener - Single.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Diodes - Zener - Single\Diodes - Zener - Single.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1843,7 +1843,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document107]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Diodes - TVS\Diodes - TVS.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Diodes - TVS\Diodes - TVS.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1860,7 +1860,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document108]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Diodes - Rectifiers - Single\Diodes - Rectifiers - Single.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Diodes - Rectifiers - Single\Diodes - Rectifiers - Single.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1877,7 +1877,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document109]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Diodes - Rectifiers - Arrays\Diodes - Rectifiers - Arrays.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Diodes - Rectifiers - Arrays\Diodes - Rectifiers - Arrays.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1894,7 +1894,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document110]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Data Acquisition - Digital to Analog Converters DAC\Data Acquisition - Digital to Analog Converters DAC.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Data Acquisition - Digital to Analog Converters DAC\Data Acquisition - Digital to Analog Converters DAC.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1911,7 +1911,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document111]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Data Acquisition - Digital Potentiometers\Data Acquisition - Digital Potentiometers.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Data Acquisition - Digital Potentiometers\Data Acquisition - Digital Potentiometers.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1928,7 +1928,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document112]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Data Acquisition - Analog to Digital Converters - ADC\Data Acquisition - Analog to Digital Converters - ADC.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Data Acquisition - Analog to Digital Converters - ADC\Data Acquisition - Analog to Digital Converters - ADC.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1945,7 +1945,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document113]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Current - Regulation Management\Current - Regulation Management.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Current - Regulation Management\Current - Regulation Management.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1962,7 +1962,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document114]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Controller - Power OR and Ideal Diodes\Controller - Power OR and Ideal Diodes.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Controller - Power OR and Ideal Diodes\Controller - Power OR and Ideal Diodes.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1979,7 +1979,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document115]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Connectors - USB DVI HDMI\Connectors - USB DVI HDMI.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Connectors - USB DVI HDMI\Connectors - USB DVI HDMI.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -1996,7 +1996,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document116]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Connectors - Terminal Blocks - Wire to Board\Connectors - Terminal Blocks - Wire to Board.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Connectors - Terminal Blocks - Wire to Board\Connectors - Terminal Blocks - Wire to Board.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -2013,7 +2013,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document117]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Connectors - Terminal Blocks - Headers Plugs and Sockets\Connectors - Terminal Blocks - Headers Plugs and Sockets.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Connectors - Terminal Blocks - Headers Plugs and Sockets\Connectors - Terminal Blocks - Headers Plugs and Sockets.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -2030,7 +2030,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document118]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Connectors - Rectangular Headers Male Pins\Connectors - Rectangular Headers Male Pins.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Connectors - Rectangular Headers Male Pins\Connectors - Rectangular Headers Male Pins.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -2047,7 +2047,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document119]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Connectors - Rectangular Headers Female Sockets\Connectors - Rectangular Headers Female Sockets.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Connectors - Rectangular Headers Female Sockets\Connectors - Rectangular Headers Female Sockets.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -2064,7 +2064,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document120]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Connectors - Rectangular Direct Wire to Board\Connectors - Rectangular Direct Wire to Board.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Connectors - Rectangular Direct Wire to Board\Connectors - Rectangular Direct Wire to Board.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -2081,7 +2081,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document121]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Connectors - Modular Jacks With Magnetics\Connectors - Modular Jacks With Magnetics.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Connectors - Modular Jacks With Magnetics\Connectors - Modular Jacks With Magnetics.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -2098,7 +2098,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document122]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Connectors - Modular Jacks\Connectors - Modular Jacks.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Connectors - Modular Jacks\Connectors - Modular Jacks.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -2115,7 +2115,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document123]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Connectors - Memory - Card Sockets\Connectors - Memory - Card Sockets.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Connectors - Memory - Card Sockets\Connectors - Memory - Card Sockets.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -2132,7 +2132,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document124]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Connectors - FFC FPC\Connectors - FFC FPC.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Connectors - FFC FPC\Connectors - FFC FPC.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -2149,7 +2149,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document125]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Connectors - Edge - Mezzanine - Board to Board\Connectors - Edge - Mezzanine - Board to Board.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Connectors - Edge - Mezzanine - Board to Board\Connectors - Edge - Mezzanine - Board to Board.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -2166,7 +2166,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document126]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Connectors - Card Edge - Edgeboard\Connectors - Card Edge - Edgeboard.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Connectors - Card Edge - Edgeboard\Connectors - Card Edge - Edgeboard.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -2183,7 +2183,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document127]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Audio - Alarms Buzzers and Sirens_1\Audio - Alarms Buzzers and Sirens.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Audio - Alarms Buzzers and Sirens_1\Audio - Alarms Buzzers and Sirens.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -2200,7 +2200,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document128]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Amplifiers - OP Amps and Buffer Amps_1\Amplifiers - OP Amps and Buffer Amps.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Amplifiers - OP Amps and Buffer Amps_1\Amplifiers - OP Amps and Buffer Amps.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -2217,7 +2217,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document129]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Amplifiers - Audio_1\Amplifiers - Audio.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Amplifiers - Audio_1\Amplifiers - Audio.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -2234,7 +2234,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document130]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Connectors - Barrier Blocks\Connectors - Barrier Blocks.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Connectors - Barrier Blocks\Connectors - Barrier Blocks.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -2251,7 +2251,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document131]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Connectors - Barrel - Power\Connectors - Barrel - Power.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Connectors - Barrel - Power\Connectors - Barrel - Power.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -2268,7 +2268,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document132]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Connectors - Barrel - Audio\Connectors - Barrel - Audio.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Connectors - Barrel - Audio\Connectors - Barrel - Audio.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -2285,7 +2285,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document133]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Capacitors - Trimmers Variable\Capacitors - Trimmers Variable.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Capacitors - Trimmers Variable\Capacitors - Trimmers Variable.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -2302,7 +2302,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document134]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Capacitors - Tantalum - Polymer\Capacitors - Tantalum - Polymer.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Capacitors - Tantalum - Polymer\Capacitors - Tantalum - Polymer.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -2319,7 +2319,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document135]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Capacitors - Tantalum\Capacitors - Tantalum.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Capacitors - Tantalum\Capacitors - Tantalum.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -2336,7 +2336,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document136]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Capacitors - Film\Capacitors - Film.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Capacitors - Film\Capacitors - Film.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -2353,7 +2353,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document137]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Capacitors - Ceramic - RF\Capacitors - Ceramic - RF.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Capacitors - Ceramic - RF\Capacitors - Ceramic - RF.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -2370,7 +2370,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document138]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Capacitors - Ceramic - 2220\Capacitors - Ceramic - 2220.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Capacitors - Ceramic - 2220\Capacitors - Ceramic - 2220.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -2387,7 +2387,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document139]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Capacitors - Ceramic - 1812\Capacitors - Ceramic - 1812.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Capacitors - Ceramic - 1812\Capacitors - Ceramic - 1812.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -2404,7 +2404,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document140]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Capacitors - Ceramic - 1210\Capacitors - Ceramic - 1210.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Capacitors - Ceramic - 1210\Capacitors - Ceramic - 1210.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -2421,7 +2421,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document141]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Capacitors - Ceramic - 1206\Capacitors - Ceramic - 1206.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Capacitors - Ceramic - 1206\Capacitors - Ceramic - 1206.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -2438,7 +2438,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document142]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Capacitors - Ceramic - 0805\Capacitors - Ceramic - 0805.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Capacitors - Ceramic - 0805\Capacitors - Ceramic - 0805.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -2455,7 +2455,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document143]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Capacitors - Ceramic - 0603\Capacitors - Ceramic - 0603.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Capacitors - Ceramic - 0603\Capacitors - Ceramic - 0603.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -2472,7 +2472,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document144]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Capacitors - Ceramic - 0402\Capacitors - Ceramic - 0402.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Capacitors - Ceramic - 0402\Capacitors - Ceramic - 0402.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -2489,7 +2489,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document145]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Capacitors - Ceramic - 0201\Capacitors - Ceramic - 0201.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Capacitors - Ceramic - 0201\Capacitors - Ceramic - 0201.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -2506,7 +2506,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document146]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Capacitors - Ceramic - 01005\Capacitors - Ceramic - 01005.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Capacitors - Ceramic - 01005\Capacitors - Ceramic - 01005.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -2523,7 +2523,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document147]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Capacitors - Aluminum - Polymer TH\Capacitors - Aluminum - Polymer TH.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Capacitors - Aluminum - Polymer TH\Capacitors - Aluminum - Polymer TH.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -2540,7 +2540,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document148]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Capacitors - Aluminum - Polymer SMT\Capacitors - Aluminum - Polymer SMT.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Capacitors - Aluminum - Polymer SMT\Capacitors - Aluminum - Polymer SMT.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -2557,7 +2557,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document149]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Capacitors - Aluminum - Electrolytic SMT\Capacitors - Aluminum - Electrolytic SMT.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Capacitors - Aluminum - Electrolytic SMT\Capacitors - Aluminum - Electrolytic SMT.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -2574,7 +2574,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document150]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Battery Management\Battery Management.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Battery Management\Battery Management.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -2591,7 +2591,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document151]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Battery Holders Clips Contacts\Battery Holders Clips Contacts.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Battery Holders Clips Contacts\Battery Holders Clips Contacts.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -2608,7 +2608,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document152]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Battery Chargers\Battery Chargers.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Battery Chargers\Battery Chargers.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -2625,7 +2625,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document153]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Audio - Speakers\Audio - Speakers.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Audio - Speakers\Audio - Speakers.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -2642,7 +2642,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document154]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Audio - Microphones\Audio - Microphones.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Audio - Microphones\Audio - Microphones.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -2659,7 +2659,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document155]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Audio - Alarms Buzzers and Sirens\Audio - Alarms Buzzers and Sirens.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Audio - Alarms Buzzers and Sirens\Audio - Alarms Buzzers and Sirens.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -2676,7 +2676,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document156]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Amplifiers - OP Amps and Buffer Amps\Amplifiers - OP Amps and Buffer Amps.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Amplifiers - OP Amps and Buffer Amps\Amplifiers - OP Amps and Buffer Amps.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -2693,7 +2693,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document157]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Amplifiers - Audio\Amplifiers - Audio.PcbLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Amplifiers - Audio\Amplifiers - Audio.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -2710,7 +2710,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document158]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Capacitors - Aluminum - Electrolytic TH\Capacitors - Aluminum - Electrolytic TH.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Capacitors - Aluminum - Electrolytic TH\Capacitors - Aluminum - Electrolytic TH.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -2727,7 +2727,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document159]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\sysdiagrams\sysdiagrams.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\sysdiagrams\sysdiagrams.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -2744,7 +2744,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document160]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Voltage Regulators - Linear\Voltage Regulators - Linear.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Voltage Regulators - Linear\Voltage Regulators - Linear.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -2761,7 +2761,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document161]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Voltage Regulators - DC DC Switching Regulators\Voltage Regulators - DC DC Switching Regulators.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Voltage Regulators - DC DC Switching Regulators\Voltage Regulators - DC DC Switching Regulators.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -2778,7 +2778,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document162]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Voltage Regulators - DC DC Switching Controllers\Voltage Regulators - DC DC Switching Controllers.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Voltage Regulators - DC DC Switching Controllers\Voltage Regulators - DC DC Switching Controllers.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -2795,7 +2795,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document163]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Voltage Reference\Voltage Reference.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Voltage Reference\Voltage Reference.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -2812,7 +2812,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document164]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Transistors - Bipolar BJT - Single Pre-Biased\Transistors - Bipolar BJT - Single Pre-Biased.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Transistors - Bipolar BJT - Single Pre-Biased\Transistors - Bipolar BJT - Single Pre-Biased.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -2829,7 +2829,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document165]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Transistors - Bipolar BJT - Single\Transistors - Bipolar BJT - Single.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Transistors - Bipolar BJT - Single\Transistors - Bipolar BJT - Single.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -2846,7 +2846,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document166]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Transistors - Bipolar BJT - RF\Transistors - Bipolar BJT - RF.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Transistors - Bipolar BJT - RF\Transistors - Bipolar BJT - RF.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -2863,7 +2863,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document167]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Switches - Tactile\Switches - Tactile.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Switches - Tactile\Switches - Tactile.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -2880,7 +2880,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document168]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Switches - Snap Action Limit\Switches - Snap Action Limit.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Switches - Snap Action Limit\Switches - Snap Action Limit.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -2897,7 +2897,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document169]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Switches - Slide\Switches - Slide.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Switches - Slide\Switches - Slide.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -2914,7 +2914,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document170]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Switches - Pushbutton\Switches - Pushbutton.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Switches - Pushbutton\Switches - Pushbutton.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -2931,7 +2931,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document171]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Switches - Magnetic Reed\Switches - Magnetic Reed.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Switches - Magnetic Reed\Switches - Magnetic Reed.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -2948,7 +2948,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document172]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Switches - DIP\Switches - DIP.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Switches - DIP\Switches - DIP.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -2965,7 +2965,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document173]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Supervisors\Supervisors.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Supervisors\Supervisors.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -2982,7 +2982,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document174]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Signal - Buffers Repeaters Splitters\Signal - Buffers Repeaters Splitters.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Signal - Buffers Repeaters Splitters\Signal - Buffers Repeaters Splitters.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -2999,7 +2999,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document175]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Sensors - Temperature - RTD\Sensors - Temperature - RTD.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Sensors - Temperature - RTD\Sensors - Temperature - RTD.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -3016,7 +3016,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document176]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Sensors - Temperature - Analog and Digital\Sensors - Temperature - Analog and Digital.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Sensors - Temperature - Analog and Digital\Sensors - Temperature - Analog and Digital.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -3033,7 +3033,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document177]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Sensors - Pressure\Sensors - Pressure.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Sensors - Pressure\Sensors - Pressure.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -3050,7 +3050,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document178]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Sensors - PTC Thermistors\Sensors - PTC Thermistors.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Sensors - PTC Thermistors\Sensors - PTC Thermistors.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -3067,7 +3067,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document179]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Sensors - Optical - Remote Photo Receiver\Sensors - Optical - Remote Photo Receiver.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Sensors - Optical - Remote Photo Receiver\Sensors - Optical - Remote Photo Receiver.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -3084,7 +3084,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document180]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Sensors - Optical - Photodiodes\Sensors - Optical - Photodiodes.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Sensors - Optical - Photodiodes\Sensors - Optical - Photodiodes.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -3101,7 +3101,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document181]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Sensors - NTC Thermistors\Sensors - NTC Thermistors.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Sensors - NTC Thermistors\Sensors - NTC Thermistors.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -3118,7 +3118,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document182]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Sensors - Motion - Accelerometers\Sensors - Motion - Accelerometers.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Sensors - Motion - Accelerometers\Sensors - Motion - Accelerometers.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -3135,7 +3135,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document183]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Sensors - Humidity Moisture\Sensors - Humidity Moisture.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Sensors - Humidity Moisture\Sensors - Humidity Moisture.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -3152,7 +3152,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document184]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Sensors - Current Sense Transformers\Sensors - Current Sense Transformers.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Sensors - Current Sense Transformers\Sensors - Current Sense Transformers.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -3169,7 +3169,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document185]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Resistors - Trimmer Potentiometers\Resistors - Trimmer Potentiometers.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Resistors - Trimmer Potentiometers\Resistors - Trimmer Potentiometers.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -3186,7 +3186,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document186]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Resistors - Surface Mount - 2512\Resistors - Surface Mount - 2512.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Resistors - Surface Mount - 2512\Resistors - Surface Mount - 2512.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -3203,7 +3203,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document187]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Resistors - Surface Mount - 1210\Resistors - Surface Mount - 1210.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Resistors - Surface Mount - 1210\Resistors - Surface Mount - 1210.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -3220,7 +3220,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document188]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Resistors - Surface Mount - 1206\Resistors - Surface Mount - 1206.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Resistors - Surface Mount - 1206\Resistors - Surface Mount - 1206.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -3237,7 +3237,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document189]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Resistors - Surface Mount - 0805\Resistors - Surface Mount - 0805.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Resistors - Surface Mount - 0805\Resistors - Surface Mount - 0805.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -3254,7 +3254,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document190]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Resistors - Surface Mount - 0603\Resistors - Surface Mount - 0603.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Resistors - Surface Mount - 0603\Resistors - Surface Mount - 0603.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -3271,7 +3271,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document191]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Resistors - Surface Mount - 0402\Resistors - Surface Mount - 0402.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Resistors - Surface Mount - 0402\Resistors - Surface Mount - 0402.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -3288,7 +3288,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document192]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Resistors - Surface Mount - 0201\Resistors - Surface Mount - 0201.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Resistors - Surface Mount - 0201\Resistors - Surface Mount - 0201.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -3305,7 +3305,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document193]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Resistors - Current Sense SMT\Resistors - Current Sense SMT.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Resistors - Current Sense SMT\Resistors - Current Sense SMT.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -3322,7 +3322,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document194]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Resistors -  Arrays and Networks\Resistors -  Arrays and Networks.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Resistors -  Arrays and Networks\Resistors -  Arrays and Networks.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -3339,7 +3339,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document195]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\RF - Transceiver Modules\RF - Transceiver Modules.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\RF - Transceiver Modules\RF - Transceiver Modules.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -3356,7 +3356,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document196]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\RF - Transceiver ICs\RF - Transceiver ICs.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\RF - Transceiver ICs\RF - Transceiver ICs.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -3373,7 +3373,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document197]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\RF - Receivers\RF - Receivers.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\RF - Receivers\RF - Receivers.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -3390,7 +3390,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document198]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\RF - RFID and RF Access ICs\RF - RFID and RF Access ICs.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\RF - RFID and RF Access ICs\RF - RFID and RF Access ICs.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -3407,7 +3407,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document199]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\RF - Front End LNA PA\RF - Front End LNA PA.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\RF - Front End LNA PA\RF - Front End LNA PA.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -3424,7 +3424,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document200]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\RF - Filters\RF - Filters.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\RF - Filters\RF - Filters.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -3441,7 +3441,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document201]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\RF - Antennas\RF - Antennas.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\RF - Antennas\RF - Antennas.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -3458,7 +3458,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document202]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Power Supplies - Board Mount - DC DC Converters\Power Supplies - Board Mount - DC DC Converters.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Power Supplies - Board Mount - DC DC Converters\Power Supplies - Board Mount - DC DC Converters.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -3475,7 +3475,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document203]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Power Management - Specialized\Power Management - Specialized.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Power Management - Specialized\Power Management - Specialized.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -3492,7 +3492,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document204]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Power Distribution - Switches and Load Drivers\Power Distribution - Switches and Load Drivers.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Power Distribution - Switches and Load Drivers\Power Distribution - Switches and Load Drivers.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -3509,7 +3509,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document205]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Oscillators - Programmable Oscillators\Oscillators - Programmable Oscillators.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Oscillators - Programmable Oscillators\Oscillators - Programmable Oscillators.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -3526,7 +3526,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document206]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Oscillators - Oscillators\Oscillators - Oscillators.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Oscillators - Oscillators\Oscillators - Oscillators.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -3543,7 +3543,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document207]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Oscillators - Crystals\Oscillators - Crystals.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Oscillators - Crystals\Oscillators - Crystals.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -3560,7 +3560,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document208]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Optoisolators - Transistor Photovoltaic\Optoisolators - Transistor Photovoltaic.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Optoisolators - Transistor Photovoltaic\Optoisolators - Transistor Photovoltaic.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -3577,7 +3577,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document209]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Optoelectronics - Infrared UV Visible Emitters\Optoelectronics - Infrared UV Visible Emitters.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Optoelectronics - Infrared UV Visible Emitters\Optoelectronics - Infrared UV Visible Emitters.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -3594,7 +3594,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document210]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Optics - Light Pipes\Optics - Light Pipes.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Optics - Light Pipes\Optics - Light Pipes.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -3611,7 +3611,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document211]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Motor Drivers Controllers\Motor Drivers Controllers.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Motor Drivers Controllers\Motor Drivers Controllers.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -3628,7 +3628,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document212]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Memory\Memory.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Memory\Memory.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -3645,7 +3645,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document213]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\MOSFET - Single - P-Ch\MOSFET - Single - P-Ch.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\MOSFET - Single - P-Ch\MOSFET - Single - P-Ch.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -3662,7 +3662,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document214]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\MOSFET - Single - N-Ch\MOSFET - Single - N-Ch.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\MOSFET - Single - N-Ch\MOSFET - Single - N-Ch.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -3679,7 +3679,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document215]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\MOSFET - Gate Drivers\MOSFET - Gate Drivers.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\MOSFET - Gate Drivers\MOSFET - Gate Drivers.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -3696,7 +3696,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document216]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\MOSFET - Arrays - P-Ch\MOSFET - Arrays - P-Ch.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\MOSFET - Arrays - P-Ch\MOSFET - Arrays - P-Ch.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -3713,7 +3713,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document217]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\MOSFET - Arrays - N-Ch\MOSFET - Arrays - N-Ch.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\MOSFET - Arrays - N-Ch\MOSFET - Arrays - N-Ch.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -3730,7 +3730,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document218]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Logic - Translators Level Shifters\Logic - Translators Level Shifters.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Logic - Translators Level Shifters\Logic - Translators Level Shifters.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -3747,7 +3747,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document219]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Logic - Linear Comparators\Logic - Linear Comparators.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Logic - Linear Comparators\Logic - Linear Comparators.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -3764,7 +3764,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document220]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Logic - Gates and Inverters\Logic - Gates and Inverters.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Logic - Gates and Inverters\Logic - Gates and Inverters.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -3781,7 +3781,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document221]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Logic - Buffers Drivers Receivers Transceivers\Logic - Buffers Drivers Receivers Transceivers.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Logic - Buffers Drivers Receivers Transceivers\Logic - Buffers Drivers Receivers Transceivers.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -3798,7 +3798,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document222]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\LED - Lighting - White\LED - Lighting - White.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\LED - Lighting - White\LED - Lighting - White.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -3815,7 +3815,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document223]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\LED - Lighting - Color\LED - Lighting - Color.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\LED - Lighting - Color\LED - Lighting - Color.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -3832,7 +3832,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document224]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\LED - Indication\LED - Indication.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\LED - Indication\LED - Indication.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -3849,7 +3849,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document225]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\LED - Drivers\LED - Drivers.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\LED - Drivers\LED - Drivers.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -3866,7 +3866,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document226]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Isolators - Digital\Isolators - Digital.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Isolators - Digital\Isolators - Digital.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -3883,7 +3883,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document227]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Interface - Signal Buffers Repeaters Splitters\Interface - Signal Buffers Repeaters Splitters.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Interface - Signal Buffers Repeaters Splitters\Interface - Signal Buffers Repeaters Splitters.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -3900,7 +3900,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document228]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Interface - Sensor and Detector\Interface - Sensor and Detector.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Interface - Sensor and Detector\Interface - Sensor and Detector.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -3917,7 +3917,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document229]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Interface - Drivers Receivers Transceivers\Interface - Drivers Receivers Transceivers.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Interface - Drivers Receivers Transceivers\Interface - Drivers Receivers Transceivers.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -3934,7 +3934,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document230]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Interface - Controllers\Interface - Controllers.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Interface - Controllers\Interface - Controllers.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -3951,7 +3951,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document231]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Interface - CODECs\Interface - CODECs.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Interface - CODECs\Interface - CODECs.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -3968,7 +3968,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document232]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Interface - Analog Switches Multiplexers Demultiplexers\Interface - Analog Switches Multiplexers Demultiplexers.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Interface - Analog Switches Multiplexers Demultiplexers\Interface - Analog Switches Multiplexers Demultiplexers.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -3985,7 +3985,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document233]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Inductors - RF\Inductors - RF.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Inductors - RF\Inductors - RF.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -4002,7 +4002,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document234]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Inductors - Power\Inductors - Power.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Inductors - Power\Inductors - Power.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -4019,7 +4019,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document235]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Hardware - Mounting Brackets\Hardware - Mounting Brackets.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Hardware - Mounting Brackets\Hardware - Mounting Brackets.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -4036,7 +4036,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document236]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Fuses - Fuseholders\Fuses - Fuseholders.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Fuses - Fuseholders\Fuses - Fuseholders.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -4053,7 +4053,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document237]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Fuses - Fuse\Fuses - Fuse.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Fuses - Fuse\Fuses - Fuse.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -4070,7 +4070,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document238]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Filters - Ferrite Beads and Chips\Filters - Ferrite Beads and Chips.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Filters - Ferrite Beads and Chips\Filters - Ferrite Beads and Chips.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -4087,7 +4087,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document239]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Encoders\Encoders.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Encoders\Encoders.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -4104,7 +4104,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document240]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Embedded - Microcontrollers\Embedded - Microcontrollers.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Embedded - Microcontrollers\Embedded - Microcontrollers.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -4121,7 +4121,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document241]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Display Modules - LCD OLED Character and Numeric\Display Modules - LCD OLED Character and Numeric.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Display Modules - LCD OLED Character and Numeric\Display Modules - LCD OLED Character and Numeric.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -4138,7 +4138,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document242]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Diodes - Zener - Single\Diodes - Zener - Single.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Diodes - Zener - Single\Diodes - Zener - Single.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -4155,7 +4155,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document243]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Diodes - TVS\Diodes - TVS.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Diodes - TVS\Diodes - TVS.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -4172,7 +4172,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document244]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Diodes - Rectifiers - Single\Diodes - Rectifiers - Single.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Diodes - Rectifiers - Single\Diodes - Rectifiers - Single.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -4189,7 +4189,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document245]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Diodes - Rectifiers - Arrays\Diodes - Rectifiers - Arrays.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Diodes - Rectifiers - Arrays\Diodes - Rectifiers - Arrays.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -4206,7 +4206,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document246]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Data Acquisition - Digital to Analog Converters DAC\Data Acquisition - Digital to Analog Converters DAC.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Data Acquisition - Digital to Analog Converters DAC\Data Acquisition - Digital to Analog Converters DAC.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -4223,7 +4223,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document247]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Data Acquisition - Digital Potentiometers\Data Acquisition - Digital Potentiometers.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Data Acquisition - Digital Potentiometers\Data Acquisition - Digital Potentiometers.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -4240,7 +4240,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document248]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Data Acquisition - Analog to Digital Converters - ADC\Data Acquisition - Analog to Digital Converters - ADC.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Data Acquisition - Analog to Digital Converters - ADC\Data Acquisition - Analog to Digital Converters - ADC.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -4257,7 +4257,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document249]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Current - Regulation Management\Current - Regulation Management.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Current - Regulation Management\Current - Regulation Management.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -4274,7 +4274,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document250]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Controller - Power OR and Ideal Diodes\Controller - Power OR and Ideal Diodes.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Controller - Power OR and Ideal Diodes\Controller - Power OR and Ideal Diodes.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -4291,7 +4291,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document251]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Connectors - USB DVI HDMI\Connectors - USB DVI HDMI.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Connectors - USB DVI HDMI\Connectors - USB DVI HDMI.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -4308,7 +4308,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document252]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Connectors - Terminal Blocks - Wire to Board\Connectors - Terminal Blocks - Wire to Board.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Connectors - Terminal Blocks - Wire to Board\Connectors - Terminal Blocks - Wire to Board.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -4325,7 +4325,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document253]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Connectors - Terminal Blocks - Headers Plugs and Sockets\Connectors - Terminal Blocks - Headers Plugs and Sockets.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Connectors - Terminal Blocks - Headers Plugs and Sockets\Connectors - Terminal Blocks - Headers Plugs and Sockets.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -4342,7 +4342,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document254]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Connectors - Rectangular Headers Male Pins\Connectors - Rectangular Headers Male Pins.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Connectors - Rectangular Headers Male Pins\Connectors - Rectangular Headers Male Pins.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -4359,7 +4359,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document255]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Connectors - Rectangular Headers Female Sockets\Connectors - Rectangular Headers Female Sockets.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Connectors - Rectangular Headers Female Sockets\Connectors - Rectangular Headers Female Sockets.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -4376,7 +4376,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document256]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Connectors - Rectangular Direct Wire to Board\Connectors - Rectangular Direct Wire to Board.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Connectors - Rectangular Direct Wire to Board\Connectors - Rectangular Direct Wire to Board.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -4393,7 +4393,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document257]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Connectors - Modular Jacks With Magnetics\Connectors - Modular Jacks With Magnetics.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Connectors - Modular Jacks With Magnetics\Connectors - Modular Jacks With Magnetics.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -4410,7 +4410,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document258]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Connectors - Modular Jacks\Connectors - Modular Jacks.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Connectors - Modular Jacks\Connectors - Modular Jacks.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -4427,7 +4427,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document259]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Connectors - Memory - Card Sockets\Connectors - Memory - Card Sockets.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Connectors - Memory - Card Sockets\Connectors - Memory - Card Sockets.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -4444,7 +4444,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document260]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Connectors - FFC FPC\Connectors - FFC FPC.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Connectors - FFC FPC\Connectors - FFC FPC.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -4461,7 +4461,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document261]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Connectors - Edge - Mezzanine - Board to Board\Connectors - Edge - Mezzanine - Board to Board.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Connectors - Edge - Mezzanine - Board to Board\Connectors - Edge - Mezzanine - Board to Board.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -4478,7 +4478,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document262]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Connectors - Card Edge - Edgeboard\Connectors - Card Edge - Edgeboard.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Connectors - Card Edge - Edgeboard\Connectors - Card Edge - Edgeboard.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -4495,7 +4495,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document263]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Audio - Alarms Buzzers and Sirens_1\Audio - Alarms Buzzers and Sirens.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Audio - Alarms Buzzers and Sirens_1\Audio - Alarms Buzzers and Sirens.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -4512,7 +4512,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document264]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Amplifiers - OP Amps and Buffer Amps_1\Amplifiers - OP Amps and Buffer Amps.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Amplifiers - OP Amps and Buffer Amps_1\Amplifiers - OP Amps and Buffer Amps.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -4529,7 +4529,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document265]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Amplifiers - Audio_1\Amplifiers - Audio.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Amplifiers - Audio_1\Amplifiers - Audio.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -4546,7 +4546,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document266]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Connectors - Barrier Blocks\Connectors - Barrier Blocks.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Connectors - Barrier Blocks\Connectors - Barrier Blocks.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -4563,7 +4563,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document267]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Connectors - Barrel - Power\Connectors - Barrel - Power.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Connectors - Barrel - Power\Connectors - Barrel - Power.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -4580,7 +4580,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document268]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Connectors - Barrel - Audio\Connectors - Barrel - Audio.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Connectors - Barrel - Audio\Connectors - Barrel - Audio.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -4597,7 +4597,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document269]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Capacitors - Trimmers Variable\Capacitors - Trimmers Variable.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Capacitors - Trimmers Variable\Capacitors - Trimmers Variable.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -4614,7 +4614,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document270]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Capacitors - Tantalum - Polymer\Capacitors - Tantalum - Polymer.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Capacitors - Tantalum - Polymer\Capacitors - Tantalum - Polymer.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -4631,7 +4631,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document271]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Capacitors - Tantalum\Capacitors - Tantalum.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Capacitors - Tantalum\Capacitors - Tantalum.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -4648,7 +4648,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document272]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Capacitors - Film\Capacitors - Film.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Capacitors - Film\Capacitors - Film.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -4665,7 +4665,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document273]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Capacitors - Ceramic - RF\Capacitors - Ceramic - RF.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Capacitors - Ceramic - RF\Capacitors - Ceramic - RF.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -4682,7 +4682,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document274]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Capacitors - Ceramic - 2220\Capacitors - Ceramic - 2220.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Capacitors - Ceramic - 2220\Capacitors - Ceramic - 2220.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -4699,7 +4699,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document275]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Capacitors - Ceramic - 1812\Capacitors - Ceramic - 1812.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Capacitors - Ceramic - 1812\Capacitors - Ceramic - 1812.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -4716,7 +4716,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document276]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Capacitors - Ceramic - 1210\Capacitors - Ceramic - 1210.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Capacitors - Ceramic - 1210\Capacitors - Ceramic - 1210.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -4733,7 +4733,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document277]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Capacitors - Ceramic - 1206\Capacitors - Ceramic - 1206.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Capacitors - Ceramic - 1206\Capacitors - Ceramic - 1206.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -4750,7 +4750,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document278]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Capacitors - Ceramic - 0805\Capacitors - Ceramic - 0805.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Capacitors - Ceramic - 0805\Capacitors - Ceramic - 0805.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -4767,7 +4767,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document279]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Capacitors - Ceramic - 0603\Capacitors - Ceramic - 0603.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Capacitors - Ceramic - 0603\Capacitors - Ceramic - 0603.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -4784,7 +4784,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document280]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Capacitors - Ceramic - 0402\Capacitors - Ceramic - 0402.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Capacitors - Ceramic - 0402\Capacitors - Ceramic - 0402.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -4801,7 +4801,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document281]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Capacitors - Ceramic - 0201\Capacitors - Ceramic - 0201.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Capacitors - Ceramic - 0201\Capacitors - Ceramic - 0201.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -4818,7 +4818,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document282]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Capacitors - Ceramic - 01005\Capacitors - Ceramic - 01005.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Capacitors - Ceramic - 01005\Capacitors - Ceramic - 01005.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -4835,7 +4835,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document283]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Capacitors - Aluminum - Polymer TH\Capacitors - Aluminum - Polymer TH.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Capacitors - Aluminum - Polymer TH\Capacitors - Aluminum - Polymer TH.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -4852,7 +4852,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document284]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Capacitors - Aluminum - Polymer SMT\Capacitors - Aluminum - Polymer SMT.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Capacitors - Aluminum - Polymer SMT\Capacitors - Aluminum - Polymer SMT.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -4869,7 +4869,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document285]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Capacitors - Aluminum - Electrolytic SMT\Capacitors - Aluminum - Electrolytic SMT.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Capacitors - Aluminum - Electrolytic SMT\Capacitors - Aluminum - Electrolytic SMT.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -4886,7 +4886,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document286]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Battery Management\Battery Management.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Battery Management\Battery Management.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -4903,7 +4903,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document287]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Battery Holders Clips Contacts\Battery Holders Clips Contacts.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Battery Holders Clips Contacts\Battery Holders Clips Contacts.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -4920,7 +4920,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document288]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Battery Chargers\Battery Chargers.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Battery Chargers\Battery Chargers.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -4937,7 +4937,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document289]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Audio - Speakers\Audio - Speakers.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Audio - Speakers\Audio - Speakers.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -4954,7 +4954,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document290]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Audio - Microphones\Audio - Microphones.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Audio - Microphones\Audio - Microphones.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -4971,7 +4971,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document291]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Audio - Alarms Buzzers and Sirens\Audio - Alarms Buzzers and Sirens.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Audio - Alarms Buzzers and Sirens\Audio - Alarms Buzzers and Sirens.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -4988,7 +4988,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document292]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Amplifiers - OP Amps and Buffer Amps\Amplifiers - OP Amps and Buffer Amps.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Amplifiers - OP Amps and Buffer Amps\Amplifiers - OP Amps and Buffer Amps.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -5005,7 +5005,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document293]
-DocumentPath=..\..\..\..\..\Pellan\Downloads\bibl revers\bibl revers\Amplifiers - Audio\Amplifiers - Audio.SchLib
+DocumentPath=..\..\AD21\Library\bibl revers\bibl revers\Amplifiers - Audio\Amplifiers - Audio.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -5020,6 +5020,57 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
+
+[Document294]
+DocumentPath=..\..\AD21\Library\bibl revers\LED-ARRAY-SMD_4P-L1.6-W1.5-BR_XL-1615RGBC-RF.pcblib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=WPAAHLSA
+
+[Document295]
+DocumentPath=..\..\AD21\Library\bibl revers\LED-ARRAY-SMD_4P-L1.6-W1.5-BR_XL-1615RGBC-RF.pcbdoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document296]
+DocumentPath=..\..\AD21\Library\bibl revers\XL-1615RGBC-RF1_XL-1615RGBC-RF.schdoc.schdoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=GGFEAGSP
 
 [GeneratedDocument1]
 DocumentPath=Project Outputs for Wireless_charger_stm8\Design Rule Check - PCB1.html
@@ -5200,24 +5251,6 @@ OutputDocumentPath8=
 OutputVariantName8=
 OutputDefault8=0
 PageOptions8=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType9=PCBDrawing
-OutputName9=Draftsman
-OutputDocumentPath9=
-OutputVariantName9=[No Variations]
-OutputDefault9=0
-PageOptions9=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType10=PDF3D
-OutputName10=PDF3D
-OutputDocumentPath10=
-OutputVariantName10=[No Variations]
-OutputDefault10=0
-PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
-OutputType11=PDF3D MBA
-OutputName11=PDF3D MBA
-OutputDocumentPath11=
-OutputVariantName11=
-OutputDefault11=0
-PageOptions11=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 
 [OutputGroup4]
 Name=Assembly Outputs
@@ -5307,11 +5340,6 @@ OutputName11=Test Point Report
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
-OutputType12=IPC2581
-OutputName12=IPC-2581 Files
-OutputDocumentPath12=
-OutputVariantName12=
-OutputDefault12=0
 
 [OutputGroup6]
 Name=Report Outputs
