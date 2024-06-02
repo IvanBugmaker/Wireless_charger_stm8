@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=LED_R Pin=D10-2
+Removed Pin From Net: NetName=LED_G Pin=D10-3
+Added Pin To Net: NetName=LED_G Pin=D10-2
+Added Pin To Net: NetName=LED_R Pin=D10-3
+Added Class: Name=XL-1615RGBC-RF1_XL-1615RGBC-RF.schdoc
+Added Room: Name=XL-1615RGBC-RF1_XL-1615RGBC-RF.schdoc

@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=GNDA Pin=TP15-1
+Removed Pin From Net: NetName=Tx_Coil_Out Pin=TP16-1
+Removed Member From Class: ClassName=MSU_and_periphery Member=TP15
+Removed Member From Class: ClassName=MSU_and_periphery Member=TP16
