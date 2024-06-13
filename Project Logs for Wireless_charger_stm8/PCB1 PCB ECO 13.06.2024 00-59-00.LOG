@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=LED_B Pin=D10-1
+Removed Pin From Net: NetName=LED_G Pin=D10-2
+Removed Pin From Net: NetName=LED_R Pin=D10-3
+Removed Pin From Net: NetName=5VA Pin=D10-4
+Removed Member From Class: ClassName=MSU_and_periphery Member=D?
+Change Component Designator: OldDesignator=D? NewDesignator=D10
+Added Pin To Net: NetName=LED_R Pin=D10-1
+Added Pin To Net: NetName=LED_G Pin=D10-2
+Added Pin To Net: NetName=LED_B Pin=D10-3
+Added Pin To Net: NetName=5VA Pin=D10-4
