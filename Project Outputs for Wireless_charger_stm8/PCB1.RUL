@@ -1,0 +1,8 @@
+DRC Rules Export File for PCB: C:\Users\Public\Documents\Altium\Projects\Wireless_charger_stm8\PCB1.PcbDoc
+RuleKind=Width|RuleName=Width_ASK|Scope=Board|Minimum=7.87
+RuleKind=Width|RuleName=Width_5VA|Scope=Board|Minimum=11.81
+RuleKind=Width|RuleName=Width_+5|Scope=Board|Minimum=11.81
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=7.87
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=7.87
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
