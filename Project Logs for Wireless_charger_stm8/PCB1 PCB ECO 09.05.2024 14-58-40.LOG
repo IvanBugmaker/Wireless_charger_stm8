@@ -1,6 +1,0 @@
-Removed Pin From Net: NetName=PWM H-bridge Q23 Pin=MCU1-13
-Removed Pin From Net: NetName=PWM H-bridge Q14 Pin=MCU1-16
-Change Component Designator: OldDesignator=MCU1 NewDesignator=MSU1
-Added Pin To Net: NetName=PWM H-bridge Q14 Pin=MSU1-13
-Added Pin To Net: NetName=PWM H-bridge Q23 Pin=MSU1-16
-Added Member To Class: ClassName=MSU_and_periphery Member=Component XTAL1 8MHz
