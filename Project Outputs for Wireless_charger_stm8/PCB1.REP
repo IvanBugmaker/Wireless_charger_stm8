@@ -2,8 +2,71 @@
 FileName = PCB1.GBR
 AutoAperture = True
 *************************************************************
-Generating : Bottom Layer
-      File : PCB1.GBL
+Generating : Mechanical 15
+      File : PCB1.GM15
+
+    Adding Layer      : Mechanical 15
+
+
+Used DCodes :
+    D13
+    D72
+    D74
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 13
+      File : PCB1.GM13
+
+    Adding Layer      : Mechanical 13
+
+
+Used DCodes :
+    D10
+    D12
+    D14
+    D15
+    D71
+    D72
+    D73
+*************************************************************
+
+*************************************************************
+Generating : Mechanical 1
+      File : PCB1.GM1
+
+    Adding Layer      : Mechanical 1
+
+
+Used DCodes :
+    D10
+*************************************************************
+
+*************************************************************
+Generating : Keep-Out Layer
+      File : PCB1.GKO
+
+    Adding Layer      : Keep-Out Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Overlay
+      File : PCB1.GBO
+
+    Adding Layer      : Bottom Overlay
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Solder
+      File : PCB1.GBS
+
+    Adding Layer      : Bottom Solder
 
     Adding Layer      : Bottom Layer
 
@@ -11,31 +74,11 @@ Generating : Bottom Layer
 
 
 Used DCodes :
-    D10
-    D13
-    D60
-    D61
-    D62
-    D64
-    D65
-    D66
-    D67
-    D68
-*************************************************************
-
-*************************************************************
-Generating : Top Overlay
-      File : PCB1.GTO
-
-    Adding Layer      : Top Overlay
-
-
-Used DCodes :
-    D10
-    D11
-    D12
-    D13
-    D14
+    D37
+    D38
+    D39
+    D40
+    D41
 *************************************************************
 
 *************************************************************
@@ -50,7 +93,6 @@ Generating : Top Solder
 
 
 Used DCodes :
-    D15
     D16
     D17
     D18
@@ -76,66 +118,45 @@ Used DCodes :
     D38
     D39
     D40
+    D41
 *************************************************************
 
 *************************************************************
-Generating : Mechanical 1
-      File : PCB1.GM1
+Generating : Top Overlay
+      File : PCB1.GTO
 
-    Adding Layer      : Mechanical 1
+    Adding Layer      : Top Overlay
 
 
 Used DCodes :
     D10
-*************************************************************
-
-*************************************************************
-Generating : Bottom Overlay
-      File : PCB1.GBO
-
-    Adding Layer      : Bottom Overlay
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 13
-      File : PCB1.GM13
-
-    Adding Layer      : Mechanical 13
-
-
-Used DCodes :
-    D10
+    D11
+    D12
     D13
     D14
+    D15
+*************************************************************
+
+*************************************************************
+Generating : Bottom Layer
+      File : PCB1.GBL
+
+    Adding Layer      : Bottom Layer
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D10
+    D14
+    D62
+    D63
+    D64
+    D66
+    D67
+    D68
     D69
     D70
-    D71
-*************************************************************
-
-*************************************************************
-Generating : Mechanical 15
-      File : PCB1.GM15
-
-    Adding Layer      : Mechanical 15
-
-
-Used DCodes :
-    D12
-    D70
-    D72
-*************************************************************
-
-*************************************************************
-Generating : Keep-Out Layer
-      File : PCB1.GKO
-
-    Adding Layer      : Keep-Out Layer
-
-
-Used DCodes :
 *************************************************************
 
 *************************************************************
@@ -149,10 +170,8 @@ Generating : Top Layer
 
 Used DCodes :
     D10
-    D13
-    D19
-    D26
-    D41
+    D14
+    D27
     D42
     D43
     D44
@@ -180,24 +199,7 @@ Used DCodes :
     D66
     D67
     D68
-*************************************************************
-
-*************************************************************
-Generating : Bottom Solder
-      File : PCB1.GBS
-
-    Adding Layer      : Bottom Solder
-
-    Adding Layer      : Bottom Layer
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D36
-    D37
-    D38
-    D39
-    D40
+    D69
+    D70
 *************************************************************
 
